@@ -1,0 +1,6 @@
+framework module SwaggerTest {
+  umbrella header "SwaggerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

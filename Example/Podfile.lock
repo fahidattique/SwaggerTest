@@ -1,0 +1,16 @@
+PODS:
+  - SwaggerTest (0.1.0)
+
+DEPENDENCIES:
+  - SwaggerTest (from `../`)
+
+EXTERNAL SOURCES:
+  SwaggerTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwaggerTest: 6f0a776a34f28ac407676b09ebc2fe643a2eb274
+
+PODFILE CHECKSUM: b4e0b4ad0e8e068fa7433b97c9cff11c11a3b5d4
+
+COCOAPODS: 1.2.0.beta.3
