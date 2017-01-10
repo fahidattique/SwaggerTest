@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwaggerTest_Tests' do
+  pod 'SwaggerTest', :path => '../'
+  
+  
+end
