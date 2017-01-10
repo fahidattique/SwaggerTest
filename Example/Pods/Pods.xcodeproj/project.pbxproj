@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		14A50632949B0B4E39E73B04D0C0464B /* SwaggerTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BCF969566238D8A89E51DE28440B71A /* SwaggerTest-dummy.m */; };
-		2913F5C31E24EE3800E8A7F9 /* AlamofireImplementations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BA1E24EE3800E8A7F9 /* AlamofireImplementations.swift */; };
-		2913F5C41E24EE3800E8A7F9 /* AlamofireImplementations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BA1E24EE3800E8A7F9 /* AlamofireImplementations.swift */; };
-		2913F5C51E24EE3800E8A7F9 /* APIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BB1E24EE3800E8A7F9 /* APIHelper.swift */; };
-		2913F5C61E24EE3800E8A7F9 /* APIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BB1E24EE3800E8A7F9 /* APIHelper.swift */; };
-		2913F5C71E24EE3800E8A7F9 /* DefaultAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BD1E24EE3800E8A7F9 /* DefaultAPI.swift */; };
-		2913F5C81E24EE3800E8A7F9 /* DefaultAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BD1E24EE3800E8A7F9 /* DefaultAPI.swift */; };
-		2913F5C91E24EE3800E8A7F9 /* APIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BE1E24EE3800E8A7F9 /* APIs.swift */; };
-		2913F5CA1E24EE3800E8A7F9 /* APIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BE1E24EE3800E8A7F9 /* APIs.swift */; };
-		2913F5CB1E24EE3800E8A7F9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BF1E24EE3800E8A7F9 /* Extensions.swift */; };
-		2913F5CC1E24EE3800E8A7F9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5BF1E24EE3800E8A7F9 /* Extensions.swift */; };
-		2913F5CD1E24EE3800E8A7F9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5C11E24EE3800E8A7F9 /* Person.swift */; };
-		2913F5CE1E24EE3800E8A7F9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5C11E24EE3800E8A7F9 /* Person.swift */; };
-		2913F5CF1E24EE3800E8A7F9 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5C21E24EE3800E8A7F9 /* Models.swift */; };
-		2913F5D01E24EE3800E8A7F9 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5C21E24EE3800E8A7F9 /* Models.swift */; };
+		2913F5DC1E24F75700E8A7F9 /* AlamofireImplementations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D31E24F75700E8A7F9 /* AlamofireImplementations.swift */; };
+		2913F5DD1E24F75700E8A7F9 /* AlamofireImplementations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D31E24F75700E8A7F9 /* AlamofireImplementations.swift */; };
+		2913F5DE1E24F75700E8A7F9 /* APIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D41E24F75700E8A7F9 /* APIHelper.swift */; };
+		2913F5DF1E24F75700E8A7F9 /* APIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D41E24F75700E8A7F9 /* APIHelper.swift */; };
+		2913F5E01E24F75700E8A7F9 /* DefaultAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D61E24F75700E8A7F9 /* DefaultAPI.swift */; };
+		2913F5E11E24F75700E8A7F9 /* DefaultAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D61E24F75700E8A7F9 /* DefaultAPI.swift */; };
+		2913F5E21E24F75700E8A7F9 /* APIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D71E24F75700E8A7F9 /* APIs.swift */; };
+		2913F5E31E24F75700E8A7F9 /* APIs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D71E24F75700E8A7F9 /* APIs.swift */; };
+		2913F5E41E24F75700E8A7F9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D81E24F75700E8A7F9 /* Extensions.swift */; };
+		2913F5E51E24F75700E8A7F9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5D81E24F75700E8A7F9 /* Extensions.swift */; };
+		2913F5E61E24F75700E8A7F9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5DA1E24F75700E8A7F9 /* Person.swift */; };
+		2913F5E71E24F75700E8A7F9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5DA1E24F75700E8A7F9 /* Person.swift */; };
+		2913F5E81E24F75700E8A7F9 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5DB1E24F75700E8A7F9 /* Models.swift */; };
+		2913F5E91E24F75700E8A7F9 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913F5DB1E24F75700E8A7F9 /* Models.swift */; };
 		5C040979DB1ECA5A24BBCE0655C6B652 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		5D7A8361F130082580945B603038A620 /* SwaggerTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6165D90D6FDE619C41C6DE1C5A0497AF /* SwaggerTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A5B051867071D26B775A8E09098612E /* Pods-SwaggerTest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F0F8062FEA4289BD5ED3D5B0942AFEE4 /* Pods-SwaggerTest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -43,13 +43,13 @@
 		13DEFFFBDFEF9BD855122F0D63423B7E /* Pods-SwaggerTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwaggerTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		20783F577574FB512F40434F16357236 /* Pods-SwaggerTest_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SwaggerTest_Tests-resources.sh"; sourceTree = "<group>"; };
 		2904A6587E3B9C7B677190F943725937 /* SwaggerTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwaggerTest.modulemap; sourceTree = "<group>"; };
-		2913F5BA1E24EE3800E8A7F9 /* AlamofireImplementations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlamofireImplementations.swift; sourceTree = "<group>"; };
-		2913F5BB1E24EE3800E8A7F9 /* APIHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIHelper.swift; sourceTree = "<group>"; };
-		2913F5BD1E24EE3800E8A7F9 /* DefaultAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultAPI.swift; sourceTree = "<group>"; };
-		2913F5BE1E24EE3800E8A7F9 /* APIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIs.swift; sourceTree = "<group>"; };
-		2913F5BF1E24EE3800E8A7F9 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		2913F5C11E24EE3800E8A7F9 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
-		2913F5C21E24EE3800E8A7F9 /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		2913F5D31E24F75700E8A7F9 /* AlamofireImplementations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlamofireImplementations.swift; sourceTree = "<group>"; };
+		2913F5D41E24F75700E8A7F9 /* APIHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIHelper.swift; sourceTree = "<group>"; };
+		2913F5D61E24F75700E8A7F9 /* DefaultAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultAPI.swift; sourceTree = "<group>"; };
+		2913F5D71E24F75700E8A7F9 /* APIs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIs.swift; sourceTree = "<group>"; };
+		2913F5D81E24F75700E8A7F9 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		2913F5DA1E24F75700E8A7F9 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		2913F5DB1E24F75700E8A7F9 /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		2BB265BE2D6DA2890EA8D288ECE9483C /* SwaggerTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwaggerTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		310A0A682A4F7102350CC38477503FBC /* SwaggerTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwaggerTest-prefix.pch"; sourceTree = "<group>"; };
 		45BE6BF0FCADF3905C0932501D62D51F /* Pods-SwaggerTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SwaggerTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -100,37 +100,45 @@
 		1F6329118805AE37EF27A0998EA5DDF2 /* SwaggerTest */ = {
 			isa = PBXGroup;
 			children = (
-				B6A16623983C23DEEB778C4E34418EEF /* Classes */,
+				2913F5D11E24F75700E8A7F9 /* Classes */,
 			);
 			path = SwaggerTest;
 			sourceTree = "<group>";
 		};
-		2913F5B91E24EE3800E8A7F9 /* Swaggers */ = {
+		2913F5D11E24F75700E8A7F9 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				2913F5BA1E24EE3800E8A7F9 /* AlamofireImplementations.swift */,
-				2913F5BB1E24EE3800E8A7F9 /* APIHelper.swift */,
-				2913F5BC1E24EE3800E8A7F9 /* APIs */,
-				2913F5BE1E24EE3800E8A7F9 /* APIs.swift */,
-				2913F5BF1E24EE3800E8A7F9 /* Extensions.swift */,
-				2913F5C01E24EE3800E8A7F9 /* Models */,
-				2913F5C21E24EE3800E8A7F9 /* Models.swift */,
+				2913F5D21E24F75700E8A7F9 /* Swaggers */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		2913F5D21E24F75700E8A7F9 /* Swaggers */ = {
+			isa = PBXGroup;
+			children = (
+				2913F5D31E24F75700E8A7F9 /* AlamofireImplementations.swift */,
+				2913F5D41E24F75700E8A7F9 /* APIHelper.swift */,
+				2913F5D51E24F75700E8A7F9 /* APIs */,
+				2913F5D71E24F75700E8A7F9 /* APIs.swift */,
+				2913F5D81E24F75700E8A7F9 /* Extensions.swift */,
+				2913F5D91E24F75700E8A7F9 /* Models */,
+				2913F5DB1E24F75700E8A7F9 /* Models.swift */,
 			);
 			path = Swaggers;
 			sourceTree = "<group>";
 		};
-		2913F5BC1E24EE3800E8A7F9 /* APIs */ = {
+		2913F5D51E24F75700E8A7F9 /* APIs */ = {
 			isa = PBXGroup;
 			children = (
-				2913F5BD1E24EE3800E8A7F9 /* DefaultAPI.swift */,
+				2913F5D61E24F75700E8A7F9 /* DefaultAPI.swift */,
 			);
 			path = APIs;
 			sourceTree = "<group>";
 		};
-		2913F5C01E24EE3800E8A7F9 /* Models */ = {
+		2913F5D91E24F75700E8A7F9 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				2913F5C11E24EE3800E8A7F9 /* Person.swift */,
+				2913F5DA1E24F75700E8A7F9 /* Person.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -202,14 +210,6 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/SwaggerTest";
-			sourceTree = "<group>";
-		};
-		B6A16623983C23DEEB778C4E34418EEF /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				2913F5B91E24EE3800E8A7F9 /* Swaggers */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -326,13 +326,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2913F5C51E24EE3800E8A7F9 /* APIHelper.swift in Sources */,
-				2913F5CB1E24EE3800E8A7F9 /* Extensions.swift in Sources */,
-				2913F5C31E24EE3800E8A7F9 /* AlamofireImplementations.swift in Sources */,
-				2913F5CF1E24EE3800E8A7F9 /* Models.swift in Sources */,
-				2913F5C71E24EE3800E8A7F9 /* DefaultAPI.swift in Sources */,
-				2913F5CD1E24EE3800E8A7F9 /* Person.swift in Sources */,
-				2913F5C91E24EE3800E8A7F9 /* APIs.swift in Sources */,
+				2913F5DE1E24F75700E8A7F9 /* APIHelper.swift in Sources */,
+				2913F5E41E24F75700E8A7F9 /* Extensions.swift in Sources */,
+				2913F5DC1E24F75700E8A7F9 /* AlamofireImplementations.swift in Sources */,
+				2913F5E81E24F75700E8A7F9 /* Models.swift in Sources */,
+				2913F5E01E24F75700E8A7F9 /* DefaultAPI.swift in Sources */,
+				2913F5E61E24F75700E8A7F9 /* Person.swift in Sources */,
+				2913F5E21E24F75700E8A7F9 /* APIs.swift in Sources */,
 				9D8D814D7E7B407BC05FA5C66D682EE9 /* Pods-SwaggerTest_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -341,13 +341,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2913F5C61E24EE3800E8A7F9 /* APIHelper.swift in Sources */,
-				2913F5CC1E24EE3800E8A7F9 /* Extensions.swift in Sources */,
-				2913F5C41E24EE3800E8A7F9 /* AlamofireImplementations.swift in Sources */,
-				2913F5D01E24EE3800E8A7F9 /* Models.swift in Sources */,
-				2913F5C81E24EE3800E8A7F9 /* DefaultAPI.swift in Sources */,
-				2913F5CE1E24EE3800E8A7F9 /* Person.swift in Sources */,
-				2913F5CA1E24EE3800E8A7F9 /* APIs.swift in Sources */,
+				2913F5DF1E24F75700E8A7F9 /* APIHelper.swift in Sources */,
+				2913F5E51E24F75700E8A7F9 /* Extensions.swift in Sources */,
+				2913F5DD1E24F75700E8A7F9 /* AlamofireImplementations.swift in Sources */,
+				2913F5E91E24F75700E8A7F9 /* Models.swift in Sources */,
+				2913F5E11E24F75700E8A7F9 /* DefaultAPI.swift in Sources */,
+				2913F5E71E24F75700E8A7F9 /* Person.swift in Sources */,
+				2913F5E31E24F75700E8A7F9 /* APIs.swift in Sources */,
 				14A50632949B0B4E39E73B04D0C0464B /* SwaggerTest-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

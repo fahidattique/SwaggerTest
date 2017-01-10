@@ -11,6 +11,8 @@ import Foundation
 open class Person: JSONEncodable {
     public var fullName: String?
     public var phone: String?
+    public var age: Int32?
+    public var company: String?
 
     public init() {}
 
@@ -19,6 +21,8 @@ open class Person: JSONEncodable {
         var nillableDictionary = [String:Any?]()
         nillableDictionary["fullName"] = self.fullName
         nillableDictionary["phone"] = self.phone
+        nillableDictionary["age"] = self.age?.encodeToJSON()
+        nillableDictionary["Company"] = self.company
         let dictionary: [String:Any] = APIHelper.rejectNil(nillableDictionary) ?? [:]
         return dictionary
     }

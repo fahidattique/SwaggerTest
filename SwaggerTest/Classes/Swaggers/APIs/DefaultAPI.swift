@@ -27,8 +27,10 @@ open class DefaultAPI: APIBase {
      - GET /persons
      - Returns a list containing all persons. The list supports paging.
      - examples: [{contentType=application/json, example=[ {
+  "Company" : "aeiou",
   "phone" : "aeiou",
-  "fullName" : "aeiou"
+  "fullName" : "aeiou",
+  "age" : ""
 } ]}]
 
      - returns: RequestBuilder<[Person]> 

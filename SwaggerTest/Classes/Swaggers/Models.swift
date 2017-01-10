@@ -159,6 +159,8 @@ class Decoders {
             let instance = Person()
             instance.fullName = Decoders.decodeOptional(clazz: String.self, source: sourceDictionary["fullName"] as AnyObject?)
             instance.phone = Decoders.decodeOptional(clazz: String.self, source: sourceDictionary["phone"] as AnyObject?)
+            instance.age = Decoders.decodeOptional(clazz: Int32.self, source: sourceDictionary["age"] as AnyObject?)
+            instance.company = Decoders.decodeOptional(clazz: String.self, source: sourceDictionary["Company"] as AnyObject?)
             return instance
         }
     }()
